@@ -46,3 +46,39 @@ Model Development
 Evaluation & Validation
       ↓
 Analysis & Interpretation
+
+```
+
+## Core Areas
+```text
+Exploratory Data Analysis
+Statistical Analysis
+Data Preprocessing
+Feature Engineering
+Supervised Learning
+Classification
+Regression
+Model Evaluation
+Predictive Modeling
+Data Visualization
+Experimentation
+Machine Learning Pipelines
+
+```
+## ⚙️ Technology
+
+# Languages
+
+Python · SQL
+
+# Machine Learning
+
+Scikit-learn · Pandas · NumPy
+
+# Data Analysis
+
+Matplotlib · Seaborn · Jupyter
+
+# Engineering
+
+Git · GitHub · Docker
