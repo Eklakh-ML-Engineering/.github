@@ -82,3 +82,25 @@ Matplotlib · Seaborn · Jupyter
 ### Engineering
 
 Git · GitHub · Docker
+
+
+## 🏗️ Engineering Principles
+### Data before models
+
+Understanding the dataset and its limitations is a prerequisite for meaningful modeling.
+
+### Measure, don't assume
+
+Models should be evaluated using appropriate metrics and validation strategies.
+
+### Reproducibility matters
+
+Experiments should be structured so that results can be reproduced and compared.
+
+### Simplicity when appropriate
+
+A complex model is not automatically a better model. Model selection should follow the characteristics of the problem and the evidence from evaluation.
+
+### Engineering beyond experimentation
+
+Machine learning work should progress from notebooks and experiments toward reproducible, maintainable systems.
