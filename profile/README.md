@@ -67,18 +67,18 @@ Machine Learning Pipelines
 ```
 ## ⚙️ Technology
 
-# Languages
+### Languages
 
 Python · SQL
 
-# Machine Learning
+### Machine Learning
 
 Scikit-learn · Pandas · NumPy
 
-# Data Analysis
+### Data Analysis
 
 Matplotlib · Seaborn · Jupyter
 
-# Engineering
+### Engineering
 
 Git · GitHub · Docker
